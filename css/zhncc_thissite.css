@@ -1,0 +1,36 @@
+@charset "UTF-8";
+.content{
+	text-align: left;
+	border:1px solid black;
+	width: 90%;
+	background: rgba(0,200,0,0.4);
+	margin: 0 auto;
+	margin-top:2%;
+}
+
+.list{
+	border: 1px dotted blue;
+	margin: 1%;
+	clear: both;
+}
+
+.code{
+	background: black;
+	color: green;
+	font-weight: bold;
+	text-align: left;
+	overflow: scroll;
+	height: 300px;
+}
+.list > .code{
+	height: auto;
+}
+.list .left_php{
+	float: left;
+	width: 49.5%;
+}
+.list .right_css{
+	float: right;
+	width:49.5%;
+	margin-left:1%;
+}

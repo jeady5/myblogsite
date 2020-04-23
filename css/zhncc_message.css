@@ -1,0 +1,58 @@
+@charset="utf-8";
+.liuyanqu{
+	width: 80%;
+	margin: 0 auto;
+	margin-top:30px;
+	text-align: center;
+	border: 2px dotted black;
+}
+.liuyan_form{
+	margin:20;
+}
+.input_liuyan{
+	width: 90%;
+	height: 100px;
+	background-color: rgba(0,150,0,0.3);
+}
+.liuyan_tip{
+	text-align: left;
+	color: blue;
+}
+.liuyan_tip1{
+	width:90%;
+	
+	border: 1px solid black;
+}
+
+.liuyan_tip2{
+	margin-top:2%;
+	width: 40%;
+}
+
+.message_title{
+	border: 1px solid red;
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+.message_title > h4{
+	width: 49%;
+	text-align: left;
+	float:left;
+	margin-top: 0;
+	height: 30px;
+}
+.message_title > h5{
+	float: right;
+	margin-top: 2px;
+	width: 49%;
+	text-align: right;
+	height: 30px;
+}
+.message_detail{
+	width: 96%;
+	background: #729fcf;
+	text-align: left;
+	margin: 0 auto;
+	margin-top: 55px;
+}

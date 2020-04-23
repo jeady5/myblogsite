@@ -1,0 +1,7 @@
+@charset="utf-8";
+.list{
+	width: 90%;
+	margin: 0 auto;
+	backround :red;
+	text-align: center;
+}
